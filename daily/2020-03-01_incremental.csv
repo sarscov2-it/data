@@ -1,4 +1,4 @@
-regione,ricoverati,terapia_intensiva,isolamento_domiciliare,positivi,guariti,morti,casi_totali,tamponi
+region,hospitalized,intensive_care,self_quarantined,active,healed,dead,total_confirmed,tested
 Abruzzo,1,0,2,3,0,0,3,9
 Basilicata,0,0,0,0,0,0,0,7
 Bolzano,0,0,0,0,0,0,0,4

@@ -1,4 +1,4 @@
-data,ricoverati,terapia_intensiva,isolamento_domiciliare,positivi,guariti,morti,casi_totali,tamponi
+date,hospitalized,intensive_care,self_quarantined,active,healed,dead,total_confirmed,tested
 2020-02-25,109,29,137,275,1,7,283,6224
 2020-02-26,19,7,84,110,2,5,117,3363
 2020-02-27,120,20,63,203,42,5,250,2427

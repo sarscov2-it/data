@@ -1,4 +1,4 @@
-data,regione,ricoverati,terapia_intensiva,isolamento_domiciliare,positivi,guariti,morti,casi_totali,tamponi
+date,region,hospitalized,intensive_care,self_quarantined,active,healed,dead,total_confirmed,tested
 2020-02-25,Abruzzo,0,0,0,0,0,0,0,5
 2020-02-25,Basilicata,0,0,0,0,0,0,0,0
 2020-02-25,Bolzano,1,0,0,1,0,0,1,1
