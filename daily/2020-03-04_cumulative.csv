@@ -1,0 +1,22 @@
+regione,ricoverati,terapia_intensiva,isolamento_domiciliare,positivi,guariti,morti,casi_totali,tamponi
+Abruzzo,7,0,0,7,0,0,7,85
+Basilicata,0,0,1,1,0,0,1,48
+Bolzano,1,0,0,1,0,0,1,20
+Calabria,0,0,1,1,0,0,1,46
+Campania,11,0,20,31,0,0,31,429
+Emilia Romagna,256,26,234,516,6,22,544,2500
+Friuli V.G.,3,0,15,18,0,0,18,376
+Lazio,15,3,9,27,3,0,30,995
+Liguria,10,3,8,21,4,1,26,133
+Lombardia,877,209,411,1497,250,73,1820,12138
+Marche,34,15,31,80,0,4,84,288
+Molise,3,0,0,3,0,0,3,19
+Piemonte,26,13,43,82,0,0,82,543
+Puglia,4,0,3,7,1,1,9,322
+Sardegna,1,0,1,2,0,0,2,42
+Sicilia,5,0,11,16,2,0,18,367
+Toscana,15,2,20,37,1,0,38,776
+Trento,1,0,4,5,0,0,5,122
+Umbria,1,1,7,9,0,0,9,58
+Valle D’Aosta,0,0,0,0,0,0,0,15
+Veneto,76,23,246,345,9,6,360,10515
