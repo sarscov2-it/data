@@ -1,4 +1,4 @@
-# 2019 Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository
+# Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository
 
 Data Sources:
 
