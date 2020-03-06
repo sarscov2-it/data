@@ -1,0 +1,22 @@
+region,hospitalized,intensive_care,self_quarantined,active,healed,dead,total_confirmed,tested
+Abruzzo,9,0,0,9,0,0,9,96
+Basilicata,1,0,2,3,0,0,3,63
+Bolzano,4,0,0,4,0,0,4,36
+Calabria,2,0,2,4,0,0,4,99
+Campania,12,0,45,57,0,0,57,471
+Emilia Romagna,397,53,366,816,17,37,870,3136
+Friuli V.G.,4,0,24,28,3,0,31,577
+Lazio,26,8,16,50,3,1,54,1373
+Liguria,12,5,7,24,5,3,32,229
+Lombardia,1622,309,77,2008,469,135,2612,13556
+Marche,73,20,62,155,0,4,159,585
+Molise,3,2,7,12,0,0,12,104
+Piemonte,57,30,52,139,0,4,143,793
+Puglia,5,1,9,15,1,1,17,395
+Sardegna,2,0,3,5,0,0,5,99
+Sicilia,7,0,15,22,2,0,24,367
+Toscana,35,5,38,78,1,0,79,1097
+Trento,4,0,6,10,0,0,10,122
+Umbria,2,2,12,16,0,0,16,110
+Valle D’Aosta,0,0,7,7,0,0,7,28
+Veneto,117,27,310,454,22,12,488,13023
