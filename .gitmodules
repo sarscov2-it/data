@@ -1,0 +1,3 @@
+[submodule "dpc-data"]
+	path = dpc-data
+	url = git@github.com:pcm-dpc/COVID-19.git
